@@ -88,7 +88,7 @@
   font-weight: 700;
 }
 .user {
-  font-size: 14px;
+  font-size: 12px;
 }
 .seller-icon:hover {
   color: black;
@@ -216,7 +216,7 @@
 }
 
 .boxx {
-  height: 300px;
+  height: 290px;
   padding: 20px 0px 15px;
   margin: 10px;
   width: 23%;
@@ -224,7 +224,7 @@
 }
 
 .boxx-img {
-  height: 270px;
+  height: 260px;
   margin-top: 1rem;
   margin-bottom: 1rem;
   background-size: cover;
@@ -250,7 +250,7 @@
 .icici {
   width: 97%;
   height: 70px;
-  background-image: url("icici.jpg");
+  background-image: url("/images/icici.jpg");
   background-size: cover;
   margin: 20px;
   margin-right: 20px;
